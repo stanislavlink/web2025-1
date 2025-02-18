@@ -1,2 +1,2 @@
-let myGithubUsername = "stanko-dev";
+let myGithubUsername = "stanislavlink";
 console.log(`Hello, ${githubUsername}`) 
