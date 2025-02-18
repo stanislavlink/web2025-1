@@ -1,2 +1,2 @@
 let myGithubUsername = "stanislavlink";
-console.log(`Hello, ${githubUsername}`) 
+console.log("Hello, " + myGithubUsername) 
